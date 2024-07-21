@@ -22,7 +22,7 @@ Replace github_url with the actual GitHub profile URL you wish to track.
 
 1-Clone this repository:
 ```bash
-git clone https://github.com/yourusername/github-stalker.git
+git clone https://github.com/n1motv/Github-Stalker
 ```
 2-Install the required dependencies:
 ```bash
